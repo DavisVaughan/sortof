@@ -4,12 +4,12 @@
 \name{sortof-package}
 \alias{sortof}
 \alias{sortof-package}
-\title{sortof: What the Package Does (One Line, Title Case)}
+\title{sortof: Sort Stuff}
 \description{
 What the package does (one paragraph).
 }
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
+\strong{Maintainer}: Davis Vaughan \email{davis@rstudio.com}
 
 }
 \keyword{internal}
